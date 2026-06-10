@@ -1,0 +1,7 @@
+,path,filename,speaker_id,keyword,num_channels,sample_rate,num_frames,duration_sec
+0,/mnt/data/GSC/speech_commands_v0.02/_background_noise_/doing_the_dishes.wav,doing_the_dishes.wav,doing_the_dishes.wav,_background_noise_,1,16000,1522930,95.183125
+1,/mnt/data/GSC/speech_commands_v0.02/_background_noise_/dude_miaowing.wav,dude_miaowing.wav,dude_miaowing.wav,_background_noise_,1,16000,988891,61.8056875
+2,/mnt/data/GSC/speech_commands_v0.02/_background_noise_/exercise_bike.wav,exercise_bike.wav,exercise_bike.wav,_background_noise_,1,16000,980062,61.253875
+3,/mnt/data/GSC/speech_commands_v0.02/_background_noise_/pink_noise.wav,pink_noise.wav,pink_noise.wav,_background_noise_,1,16000,960000,60.0
+4,/mnt/data/GSC/speech_commands_v0.02/_background_noise_/running_tap.wav,running_tap.wav,running_tap.wav,_background_noise_,1,16000,978488,61.1555
+5,/mnt/data/GSC/speech_commands_v0.02/_background_noise_/white_noise.wav,white_noise.wav,white_noise.wav,_background_noise_,1,16000,960000,60.0
